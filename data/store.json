@@ -1,5 +1,13 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "1761938767756",
+      "name": "Травматическое оружие",
+      "slug": "травматическое-оружие",
+      "description": "Ассортимент травматического оружия",
+      "image": "https://i.postimg.cc/d1J5PWG9/photo-2025-10-31-21-10-52.jpg"
+    }
+  ],
   "weapons": [],
   "settings": {
     "orderButtonUrl": "https://t.me/your_payment_bot"
