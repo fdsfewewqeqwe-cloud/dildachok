@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "1761467224281",
+      "name": "Дробовики",
+      "slug": "дробовики",
+      "description": "Ну просто дробовики по пиздатым ценам",
+      "image": "https://avatars.mds.yandex.net/i?id=bbf628a6b216952792001e9fa1f2684a_l-5249900-images-thumbs&n=13"
+    },
+    {
+      "id": "1761470424220",
+      "name": "Кисломолочный отдел",
+      "slug": "кисломолочный-отдел",
+      "description": "Кефиры там и тд",
+      "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67d45c756e0044772ffea98c_67d45c8ea3209435ec023e07/scale_1200"
+    }
+  ],
+  "weapons": [
+    {
+      "id": "1761467487021",
+      "name": "XM1014",
+      "slug": "xm1014",
+      "categoryId": "1761467224281",
+      "price": 1500,
+      "images": [
+        "https://gocsgo.net/wp-content/uploads/2019/07/xm1014-rayskiy-strazh.jpg"
+      ],
+      "videoUrl": "https://mega.nz/embed/rxZDQagJ#rQu_nQGtUc3uCdg8CDL9ykJwOx70uoH6H7LpOzqMeVw",
+      "shortDescription": "Мощный, стильный и надёжный дробовик, созданный для тех, кто ценит уверенность в каждом выстреле.",
+      "fullDescription": "Мощный, стильный и надёжный дробовик, созданный для тех, кто ценит уверенность в каждом выстреле. Этот красавец сочетает агрессивный внешний вид с передовыми технологиями: сплав прочной стали, эргономическая рукоять с нескользящим покрытием и укороченный ствол для максимальной манёвренности. Система быстрой перезарядки, современная регулируемая мушка, а также тактическое крепление под фонарь или лазер.",
+      "specifications": {
+        "Тип патрона: ": "12",
+        "Ёмкость магазина: ": "7/32",
+        "Скорострельность": "172",
+        "Дальность поражения: ": "3 м"
+      }
+    },
+    {
+      "id": "1761470145485",
+      "name": "Дрочильник",
+      "slug": "дрочильник",
+      "categoryId": "1761467224281",
+      "price": 5,
+      "images": [
+        "https://yandex-images.clstorage.net/49Yrsl198/2e2410fHIx/8BwU6cVIPTfCbCr460HvSZ2c3rM3i9BBYU6VVksQCRSb3K_G5eV_e9SXTKSxqY4GkVT7jd8WYp6udHcihCFwZb5KV76HCj4zy35j5PkC_0SQ39KlZcXUDjNElVJIfG5guKaTvISfAFOq1x-u5_vESdIXxuaaTHTexC14E5AwLDvyGRDnz2pANdJOZcLBQMd9k_zovTDB9g1gfuQXNHBFb7O1gYqDmCN_kswSs_DR7hXIGNzs7GR_x_wqQiqFKSs5wjUV5-dOSinXWGvWxmTDY6bE6bsu99w9RGLSNx9mfGK4jqCEhp0EUK3CLZHz5MgmyTLK1NJPZMreIFkLmQo1AtAIMuTydVwu109R7PlH73qyw9WiLsH1OFp98hc1bnhHtaKqqbi4E2mC2g6a6fPkN8sqztfIUFLb_xF0Dr8ZOwnTMjT53FxeEvFFRfP_a-hUiMHckir83gljXfkxKG99RYOSiKm1gD18j-wZhMfo1gPpIfvsyGhR3vA1QjaeIDAF7jAo6s5wfzHeXmzgw0XuaaLB2ZcX4NsxRV3-LjlaaEmPsaiGh6MPV777N5LI--oV2ibp8Nd2VtfOBGU0pzErGsMcE_LZSHQO7H1ux-9X32Gh292vAOHoE2F-zCQ4eXRVsou8lpCuH3iO1zyD9NXIAek3yuPzSU358y5yMacmBCb2PC3R2FRpMsNoV-DBeNp5p9HimxPJ4T1_XewzP1pWUr6XjpSfty5btOwQt_Lq8D_sAPzozmJBw_wlWQeuNx4b1A0KwdJVdyLja3TGxEHpY53x-YIU8vQ2TVzNFzVLelCwj6uqoI4je4n5GZTU6MUz6A3z39hmXs_fFl8ZuxsXKsElB_36fGQp0FJOy9lM5F680-SDNM7VEUN98Ro9RUBjnK2Gl4-kHV-j2j2Syc7aDPko6c3Vel7o3DRhNKIVJyjHGRDn-VZgLcdvTPfoftx6jt_Xkxr87zZkT8oINUs"
+      ],
+      "videoUrl": "",
+      "shortDescription": "Дрочильник обыкновенный",
+      "fullDescription": "Дешевый дрочильник",
+      "specifications": {
+        "Дрочит": "Да"
+      }
+    },
+    {
+      "id": "1761470560974",
+      "name": "Айран",
+      "slug": "айран",
+      "categoryId": "1761470424220",
+      "price": 1,
+      "images": [
+        "https://i.pinimg.com/736x/79/67/41/796741611d084b6645a4b188dd37cd0f.jpg"
+      ],
+      "videoUrl": "",
+      "shortDescription": "Срать хорошо будешь",
+      "fullDescription": "Обосрешься",
+      "specifications": {
+        "Срать": "ДА"
+      }
+    }
+  ],
+  "settings": {
+    "orderButtonUrl": "https://t.me/your_payment_bot"
+  }
+}
