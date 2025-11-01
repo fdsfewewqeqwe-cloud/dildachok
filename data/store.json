@@ -6,6 +6,13 @@
       "slug": "травматическое-оружие",
       "description": "Ассортимент травматического оружия",
       "image": "https://i.postimg.cc/d1J5PWG9/photo-2025-10-31-21-10-52.jpg"
+    },
+    {
+      "id": "1761993276863",
+      "name": "Охолощенное оружие",
+      "slug": "охолощенное-оружие",
+      "description": "Ассортимент охолощенного оружия",
+      "image": "https://i.postimg.cc/pd5w9sTX/image-1761993249453-w4zp7x.png"
     }
   ],
   "weapons": [
