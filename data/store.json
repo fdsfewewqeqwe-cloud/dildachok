@@ -13,6 +13,13 @@
       "slug": "охолощенное-оружие",
       "description": "Ассортимент охолощенного оружия",
       "image": "https://i.postimg.cc/pd5w9sTX/image-1761993249453-w4zp7x.png"
+    },
+    {
+      "id": "1763048732609",
+      "name": "Пневматическое оружие",
+      "slug": "пневматическое-оружие",
+      "description": "Ассортимент пневматического оружия",
+      "image": "https://i.postimg.cc/xTzpTpq8/image.png"
     }
   ],
   "weapons": [
