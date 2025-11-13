@@ -448,6 +448,22 @@
       "shortDescription": "🔫 МАУЗЕР 🔫",
       "fullDescription": "ℹ️ Основная Информация ℹ️ \nТип: 🔥 Пневматический пистолет 4,5 мм, блоубек, авто огонь 🔥  \n\nХарактеристики 📊:  \n\n👁 Модель: МАУЗЕР  \n⛏ Калибр: 4,5 мм  \n🔥 Особенности: блоубек, авто огонь  ",
       "specifications": {}
+    },
+    {
+      "id": "1763049128462",
+      "name": "🔫 DENIX - PPK 🔫",
+      "slug": "🔫-denix---ppk-🔫",
+      "categoryId": "1761993276863",
+      "price": 115,
+      "images": [
+        "https://i.postimg.cc/QNwsyzRV/photo-2024-12-10-19-35-42.jpg",
+        "https://i.postimg.cc/2jMmKtPh/photo-2024-12-10-19-35-43.jpg",
+        "https://i.postimg.cc/Pf9hR7BZ/photo-2024-12-10-19-35-43-2.jpg"
+      ],
+      "videoUrl": "",
+      "shortDescription": "🔫 DENIX - PPK 🔫",
+      "fullDescription": "ℹ️ Основная Информация ℹ️\n\nСостояние: ☄️ Б/У (8 из 10) ☄️  \nТип: 🔥 Охолощенный пистолет 🔥  \n\nХарактеристики 📊:  \n\n👁 Модель: DENIX - PPK  \n\nКомплектация:\n🎰 Документы  \n🎰 Сертификат  \n🎰 Коробка  \n🎰 Глушитель  \n🎰 Два магазина  ",
+      "specifications": {}
     }
   ],
   "settings": {
